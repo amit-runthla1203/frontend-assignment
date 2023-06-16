@@ -1,0 +1,1 @@
+export const SET_CRICKETER_DATA = "SET_CRICKETER_DATA";
